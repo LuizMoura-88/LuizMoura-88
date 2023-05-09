@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, bem vindo ao meu perfil, Luiz aqui :)👋
+Desenvolvedor Web Full Stack em formação na Cubos Academy , Desenvolvedor Web em formação na Rocketseat nível Explorer.
 
-<!--
-**LuizMoura-88/LuizMoura-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou me desenvolvendo com o bjetivo para migração de carreira.
 
-Here are some ideas to get you started:
+- 👨‍💻 **Estudante de tecnologia** Programador Full Stack na [Cubos academy](https://cubos.academy/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 **Estudante de tecnologia** Programador Web Nível Explorer na [rocketseat](https://www.rocketseat.com.br/).
+
+- 🔥 Apaixonado por 💻  Tecnologia,🎙️ Podcasts, 💻  Séries e ⛹️ Basquete. 
+-   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+          
+
+
+        
+          
+
