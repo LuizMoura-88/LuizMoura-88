@@ -11,9 +11,15 @@ Desenvolvedor Web Full Stack em formação na Cubos Academy , Desenvolvedor Web 
 
 ![Luiz Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizMoura-88&show_icons=true&theme=dracula)
 
+<div style="display: inline_block"  style="margin-top: 15px;" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoura-88)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 # Tecnologias do meu dia:
 
-<div style="display: inline_block">
+<div style="display: inline_block"  >
 
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
 
@@ -25,6 +31,9 @@ Desenvolvedor Web Full Stack em formação na Cubos Academy , Desenvolvedor Web 
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 
 </div>
+
+
+
 
 
 # contato: <div style="display: inline">
