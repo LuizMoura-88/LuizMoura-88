@@ -7,7 +7,7 @@ e estudando Analise e Desenvolvimento de Sistemas na FMU
 - 👨‍💻 **Estudante de tecnologia** Programador Full Stack na [Cubos academy](https://cubos.academy/).
 
 - 👨‍💻 **Estudante de tecnologia** Programador Web Nível Explorer na [rocketseat](https://www.rocketseat.com.br/).
-- 👨‍💻 **Estudante de tecnologia** Programador BackEnd Java na [Dio](https://www.dio.me/).
+- 👨‍💻 **Estudante de tecnologia** Programador BackEnd Java na [Udemy](https://www.udemy.com/).
 
 - 👨‍💻 **Estudante de tecnologia** Analise e Desenvolvimento de Sistemas na [FMU](https://portal.fmu.br/).
 
