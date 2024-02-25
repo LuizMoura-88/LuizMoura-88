@@ -36,6 +36,8 @@ e estudando Analise e Desenvolvimento de Sistemas na FMU
 
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java.js">
 
+<img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Typescript.js">
+
 
 
 </div>
